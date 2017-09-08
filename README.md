@@ -1,4 +1,4 @@
-# mysal
+# MySAL
 My Somewhat Awesome List
 
 #### JoyPlots w/ Python
