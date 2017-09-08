@@ -1,6 +1,6 @@
 # mysal
 My Somewhat Awesome List
 
-### JoyPlots
+#### JoyPlots
 + [**JoyPy** - Best one yet](https://github.com/sbebo/joypy)
 
