@@ -1,6 +1,11 @@
 # MySAL
 My Somewhat Awesome List
 
+
+### TOC
++ [JoyPlots w/ Python](https://github.com/mlcoursework/mysal/blob/master/README.md#joyplots-w-python)
++ [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#networks)
+
 #### JoyPlots w/ Python
 + [**JoyPy** - Best one yet](https://github.com/sbebo/joypy)
 + [Another option](https://github.com/daguiam/pyjoyplot)
