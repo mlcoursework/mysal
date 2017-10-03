@@ -6,6 +6,7 @@ My Somewhat Awesome List
 + [JoyPlots w/ Python](https://github.com/mlcoursework/mysal/blob/master/README.md#joyplots-w-python)
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
++ [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
 
 #### JoyPlots w/ Python
 + [**JoyPy** - Best one yet](https://github.com/sbebo/joypy)
@@ -20,3 +21,7 @@ My Somewhat Awesome List
 
 #### SQL
 + [Thread](https://news.ycombinator.com/item?id=14300038) on hackernews with links in comments to visual/browser platforms to run SQL queries and explore data.
+
+
+### Deep Learning
++ [Guide - Deep Learning With Jupyter Notebooks In The Cloud](https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws)
