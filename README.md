@@ -7,6 +7,7 @@ My Somewhat Awesome List
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
++ [Misc]([Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
 #### JoyPlots w/ Python
 + [**JoyPy** - Best one yet](https://github.com/sbebo/joypy)
@@ -23,5 +24,10 @@ My Somewhat Awesome List
 + [Thread](https://news.ycombinator.com/item?id=14300038) on hackernews with links in comments to visual/browser platforms to run SQL queries and explore data.
 
 
-### Deep Learning
+#### Deep Learning
 + [Guide - Deep Learning With Jupyter Notebooks In The Cloud](https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws)
+
+
+
+#### MISC
++ [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
