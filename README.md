@@ -7,7 +7,7 @@ My Somewhat Awesome List
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
-+ [Misc]([Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
++ [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
 #### JoyPlots w/ Python
 + [**JoyPy** - Best one yet](https://github.com/sbebo/joypy)
