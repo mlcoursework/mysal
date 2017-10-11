@@ -9,6 +9,8 @@ My Somewhat Awesome List
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
 + [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
+---
+
 #### JoyPlots w/ Python
 + [**JoyPy** - Best one yet](https://github.com/sbebo/joypy)
 + [Another option](https://github.com/daguiam/pyjoyplot)
@@ -31,3 +33,4 @@ My Somewhat Awesome List
 
 #### Misc
 + [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
++ [How to import a python file from within another python file](https://stackoverflow.com/a/20749411/5056689)
