@@ -34,3 +34,4 @@ My Somewhat Awesome List
 #### Misc
 + [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 + [How to import a python file from within another python file](https://stackoverflow.com/a/20749411/5056689)
++ [Selenium with Firefox](https://raspberrypi.stackexchange.com/a/39915)
