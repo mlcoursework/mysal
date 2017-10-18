@@ -7,6 +7,7 @@ My Somewhat Awesome List
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
++ [Raspberry Pi](https://github.com/mlcoursework/mysal/blob/master/README.md#raspberry-pi)
 + [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
 ---
@@ -30,6 +31,8 @@ My Somewhat Awesome List
 + [Guide - Deep Learning With Jupyter Notebooks In The Cloud](https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws)
 
 
+#### Raspberry Pi
++ Installing PhantomJS: [tutorial](https://webanalyticsfordevelopers.com/2017/03/07/automating-tests/) (search for the PhantomJS bit), and a [github repo](https://github.com/fg2it/phantomjs-on-raspberry/releases/) to look for a release (you'll have to change the link in the tutorial accordingly).
 
 #### Misc
 + [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
