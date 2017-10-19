@@ -32,7 +32,9 @@ My Somewhat Awesome List
 
 
 #### Raspberry Pi
-+ Installing PhantomJS: [tutorial](https://webanalyticsfordevelopers.com/2017/03/07/automating-tests/) (search for the PhantomJS bit), and a [github repo](https://github.com/fg2it/phantomjs-on-raspberry/releases/) to look for a release (you'll have to change the link in the tutorial accordingly).
++ Installing PhantomJS: [tutorial](https://webanalyticsfordevelopers.com/2017/03/07/automating-tests/) (search for the PhantomJS bit), and a [github repo](https://github.com/fg2it/phantomjs-on-raspberry/releases/) to look for a release (you'll have to change the link in the tutorial accordingly). [Official Download](http://phantomjs.org/download.html).
++ RPi headlesss Firefox - [link](https://stackoverflow.com/a/25726038/5056689).
+
 
 #### Misc
 + [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
