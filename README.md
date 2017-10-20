@@ -34,6 +34,7 @@ My Somewhat Awesome List
 #### Raspberry Pi
 + Installing PhantomJS: [tutorial](https://webanalyticsfordevelopers.com/2017/03/07/automating-tests/) (search for the PhantomJS bit), and a [github repo](https://github.com/fg2it/phantomjs-on-raspberry/releases/) to look for a release (you'll have to change the link in the tutorial accordingly). [Official Download](http://phantomjs.org/download.html).
 + RPi headlesss Firefox - [link](https://stackoverflow.com/a/25726038/5056689).
++ Crontab for noobs [link](https://thepihut.com/blogs/raspberry-pi-tutorials/34930820-running-things-regularly-cron).
 
 
 #### Misc
