@@ -37,8 +37,8 @@ My Somewhat Awesome List
 + Crontab for noobs [link](https://thepihut.com/blogs/raspberry-pi-tutorials/34930820-running-things-regularly-cron).
 + Booting Raspsberry Pi Without Monitor [link](https://www.raspberrypi.org/forums/viewtopic.php?t=144926).
 + Benchmarking performance. [link](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench).<br>Essentially:
-> apt-get install sysbench
-> sysbench --test=cpu --cpu-max-prime=20000 run
+    > apt-get install sysbench <br>
+    > sysbench --test=cpu --cpu-max-prime=20000 run
 
 
 #### Misc
