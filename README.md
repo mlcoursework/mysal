@@ -39,7 +39,7 @@ My Somewhat Awesome List
 + Benchmarking performance. [link](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench).<br>Essentially:
     > apt-get install sysbench <br>
     > sysbench --test=cpu --cpu-max-prime=20000 run
-+ VNC - direct and clout connection set up - [link](https://www.raspberrypi.org/documentation/remote-access/vnc/).
++ VNC - direct and clout connection set up - [link](https://www.raspberrypi.org/documentation/remote-access/vnc/). Download [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) from realvnc.
 
 
 #### Misc
