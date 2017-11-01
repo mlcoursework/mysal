@@ -47,10 +47,17 @@ My Somewhat Awesome List
 + [How to import a python file from within another python file](https://stackoverflow.com/a/20749411/5056689)
 + [Selenium with Firefox](https://raspberrypi.stackexchange.com/a/39915)
 + Edit the hosts file to effectively block time wasting websites (tried on Mac, RPi):
+
 > `sudo nano /etc/hosts`
+
 add new IP and domain name like so:
+
 > `0.0.0.0      www.distracting-website.com`
+
 save, exit.
+
 You might need to flush the DNS cache, like so (terminal, of course):
+
 > `dscacheutil -flushcache`
+
 Make sure you redirect to 0.0.0.0. See [here](https://www.webnots.com/how-to-edit-hosts-file-in-mac-os-x/), for example, for more.
