@@ -5,6 +5,7 @@ My Somewhat Awesome List
 ### TOC
 + [JoyPlots w/ Python](https://github.com/mlcoursework/mysal/blob/master/README.md#joyplots-w-python)
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
++ [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
 + [Raspberry Pi](https://github.com/mlcoursework/mysal/blob/master/README.md#raspberry-pi)
@@ -21,6 +22,11 @@ My Somewhat Awesome List
 
 + Full book for download: [_Networks, Crowds, and Markets: Reasoning About a Highly Connected World_](http://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg.
 + Lada Adamic - SNA course materials (Coursera). [(github repo)](https://github.com/ladamalina/coursera-sna)
+
+
+#### EDA
++ [Facets: An Open Source Visualization Tool for Machine Learning Training Data (from Google)](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
++ [glueviz](http://glueviz.org/)
 
 
 #### SQL
