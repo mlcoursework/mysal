@@ -3,6 +3,7 @@ My Somewhat Awesome List
 
 
 ### TOC
++ [Pandas](https://github.com/mlcoursework/mysal/blob/master/README.md#pandas)
 + [JoyPlots w/ Python](https://github.com/mlcoursework/mysal/blob/master/README.md#joyplots-w-python)
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
@@ -12,6 +13,10 @@ My Somewhat Awesome List
 + [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
 ---
+
+#### Pandas
++ Optimizing Pandas Code for Speed and Efficiency - Sofia Heisler. [Video](https://www.youtube.com/watch?v=HN5d490_KKk), [Repo](https://github.com/sversh/pycon2017-optimizing-pandas), [Slides](https://github.com/sversh/pycon2017-optimizing-pandas/blob/master/PyCon%20presentation.pdf)
+
 
 #### JoyPlots w/ Python
 + [**JoyPy** - Best one yet](https://github.com/sbebo/joypy)
