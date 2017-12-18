@@ -59,6 +59,7 @@ My Somewhat Awesome List
 + [Evan Miller - How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
 + [Evan Miller - Formulas for Bayesian A/B Testing](https://www.evanmiller.org/bayesian-ab-testing.html)
 + [A/B Testing Tech Note: determining sample size](https://signalvnoise.com/posts/3004-ab-testing-tech-note-determining-sample-size)
++ Read: [A Smart Bear - Easy statistics for AdWords A/B testing, and hamsters](https://blog.asmartbear.com/easy-statistics-for-adwords-ab-testing-and-hamsters.html)
 + [12 A/B Split Testing Mistakes I See Businesses Make All The Time](https://conversionxl.com/blog/12-ab-split-testing-mistakes-i-see-businesses-make-all-the-time/)
 
 
