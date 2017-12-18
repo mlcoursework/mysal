@@ -9,7 +9,7 @@ My Somewhat Awesome List
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
-+ [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
++ [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
 + [Raspberry Pi](https://github.com/mlcoursework/mysal/blob/master/README.md#raspberry-pi)
 + [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
@@ -56,6 +56,10 @@ My Somewhat Awesome List
 
 
 #### A/B Testing
++ [Evan Miller - How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
++ [Evan Miller - Formulas for Bayesian A/B Testing](https://www.evanmiller.org/bayesian-ab-testing.html)
++ [A/B Testing Tech Note: determining sample size](https://signalvnoise.com/posts/3004-ab-testing-tech-note-determining-sample-size)
++ [12 A/B Split Testing Mistakes I See Businesses Make All The Time](https://conversionxl.com/blog/12-ab-split-testing-mistakes-i-see-businesses-make-all-the-time/)
 
 
 #### Misc
