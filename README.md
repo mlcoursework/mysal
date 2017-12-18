@@ -9,6 +9,7 @@ My Somewhat Awesome List
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
++ [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
 + [Raspberry Pi](https://github.com/mlcoursework/mysal/blob/master/README.md#raspberry-pi)
 + [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
@@ -52,6 +53,9 @@ My Somewhat Awesome List
     > apt-get install sysbench <br>
     > sysbench --test=cpu --cpu-max-prime=20000 run
 + VNC - direct and clout connection set up - [link](https://www.raspberrypi.org/documentation/remote-access/vnc/). Download [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) from realvnc.
+
+
+#### A/B Testing
 
 
 #### Misc
