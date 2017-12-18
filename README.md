@@ -36,7 +36,8 @@ My Somewhat Awesome List
 
 #### SQL
 + [Thread](https://news.ycombinator.com/item?id=14300038) on hackernews with links in comments to visual/browser platforms to run SQL queries and explore data.
-
++ [SQL Window Functions Tutorial for Business Analysis](https://blog.statsbot.co/sql-window-functions-tutorial-b5075b87d129)
++ [Set Yourself Apart from you Peers — Learn CTE’s](https://www.essentialsql.com/introduction-common-table-expressions-ctes/)
 
 #### Deep Learning
 + [Guide - Deep Learning With Jupyter Notebooks In The Cloud](https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws)
