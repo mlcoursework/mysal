@@ -65,6 +65,9 @@ My Somewhat Awesome List
 + [12 A/B Split Testing Mistakes I See Businesses Make All The Time](https://conversionxl.com/blog/12-ab-split-testing-mistakes-i-see-businesses-make-all-the-time/)
 
 
+#### Probability & Statistics
++ [statistics how to (eye level explanations](http://www.statisticshowto.com/)
+
 #### Misc
 + [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 + [How to import a python file from within another python file](https://stackoverflow.com/a/20749411/5056689)
