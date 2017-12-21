@@ -10,6 +10,7 @@ My Somewhat Awesome List
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
 + [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
++ [Probability & Statistics](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
 + [Raspberry Pi](https://github.com/mlcoursework/mysal/blob/master/README.md#raspberry-pi)
 + [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
