@@ -9,6 +9,7 @@ My Somewhat Awesome List
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
++ [Practice Questions](https://github.com/mlcoursework/mysal/blob/master/README.md#practice-questions)
 + [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
 + [Probability & Statistics](https://github.com/mlcoursework/mysal/blob/master/README.md#probability--statistics)
 + [Raspberry Pi](https://github.com/mlcoursework/mysal/blob/master/README.md#raspberry-pi)
@@ -46,15 +47,15 @@ My Somewhat Awesome List
 + [Guide - Deep Learning With Jupyter Notebooks In The Cloud](https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws)
 
 
-#### Practive Questions
+#### Practice Questions
 + **Python**:
- + [HackerRank](https://www.hackerrank.com/domains/python/py-introduction), [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
+  + [HackerRank](https://www.hackerrank.com/domains/python/py-introduction), [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
  + [Excercism](http://exercism.io/languages/python/exercises)
  + 
 + **SQL**:
- + [HackerRank](https://www.hackerrank.com/domains/sql/select)
+  + [HackerRank](https://www.hackerrank.com/domains/sql/select)
 + **Data Structures**:
- + [HackerRank](https://www.hackerrank.com/domains/data-structures)
+  + [HackerRank](https://www.hackerrank.com/domains/data-structures)
 
 
 #### Raspberry Pi
