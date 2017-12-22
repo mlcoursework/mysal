@@ -50,8 +50,8 @@ My Somewhat Awesome List
 #### Practice Questions
 + **Python**:
   + [HackerRank](https://www.hackerrank.com/domains/python/py-introduction), [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
- + [Excercism](http://exercism.io/languages/python/exercises)
- + 
+  + [Excercism](http://exercism.io/languages/python/exercises)
+  + 
 + **SQL**:
   + [HackerRank](https://www.hackerrank.com/domains/sql/select)
 + **Data Structures**:
