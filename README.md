@@ -51,7 +51,7 @@ My Somewhat Awesome List
 
 + **Data Science/Analysis**:
   + [Uber-DS-Challenge](https://github.com/bjherger/Uber-DS-Challenge/blob/master/docs/instructions/DSInterviewChallengeV_2_4.pdf)
-  + ![20 Take Home Data Challenges](https://github.com/eliekawerk/TakeHomeDataChallenges)
+  + ! [20 Take Home Data Challenges](https://github.com/eliekawerk/TakeHomeDataChallenges)
   
 + **Python**:
   + [HackerRank](https://www.hackerrank.com/domains/python/py-introduction), [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
