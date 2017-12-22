@@ -46,6 +46,17 @@ My Somewhat Awesome List
 + [Guide - Deep Learning With Jupyter Notebooks In The Cloud](https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws)
 
 
+#### Practive Questions
++ **Python**:
+ + [HackerRank](https://www.hackerrank.com/domains/python/py-introduction), [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
+ + [Excercism](http://exercism.io/languages/python/exercises)
+ + 
++ **SQL**:
+ + [HackerRank](https://www.hackerrank.com/domains/sql/select)
++ **Data Structures**:
+ + [HackerRank](https://www.hackerrank.com/domains/data-structures)
+
+
 #### Raspberry Pi
 + Installing PhantomJS: [tutorial](https://webanalyticsfordevelopers.com/2017/03/07/automating-tests/) (search for the PhantomJS bit), and a [github repo](https://github.com/fg2it/phantomjs-on-raspberry/releases/) to look for a release (you'll have to change the link in the tutorial accordingly). [Official Download](http://phantomjs.org/download.html).
 + RPi headlesss Firefox - [link](https://stackoverflow.com/a/25726038/5056689).
@@ -68,6 +79,7 @@ My Somewhat Awesome List
 
 #### Probability & Statistics
 + [statistics how to (eye level explanations](http://www.statisticshowto.com/)
+
 
 #### Misc
 + [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
