@@ -48,14 +48,21 @@ My Somewhat Awesome List
 
 
 #### Practice Questions
+
 + **Python**:
   + [HackerRank](https://www.hackerrank.com/domains/python/py-introduction), [Cracking the Coding Interview Challenges](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview), [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
   + [Excercism](http://exercism.io/languages/python/exercises)
-  + 
+  + [Code Wars](http://www.codewars.com/kata/563b662a59afc2b5120000c6/train/python)
+  + [Coding Bat](http://codingbat.com/)
+  
 + **SQL**:
   + [HackerRank](https://www.hackerrank.com/domains/sql/select)
+  
 + **Data Structures**:
   + [HackerRank](https://www.hackerrank.com/domains/data-structures)
+  
++ **Probability & Statistics**
+  + [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 
 
 #### Raspberry Pi
