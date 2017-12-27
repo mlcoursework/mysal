@@ -58,6 +58,10 @@ My Somewhat Awesome List
   + [Excercism](http://exercism.io/languages/python/exercises)
   + [Code Wars](http://www.codewars.com/kata/563b662a59afc2b5120000c6/train/python)
   + [Coding Bat](http://codingbat.com/)
+  + [CodeAbbey](http://www.codeabbey.com/index/task_list)
+  + [Notebooks - Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+  + [checkio - games like](https://py.checkio.org)
+  + >> [w3resource](https://www.w3resource.com/python-exercises/)
   
 + **SQL**:
   + [HackerRank](https://www.hackerrank.com/domains/sql/select)
