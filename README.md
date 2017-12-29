@@ -61,6 +61,7 @@ My Somewhat Awesome List
   + [CodeAbbey](http://www.codeabbey.com/index/task_list)
   + [Notebooks - Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
   + [checkio - games like](https://py.checkio.org)
+  + \>\> [LeetCode](https://leetcode.com/problemset/algorithms/)
   + \>\> [w3resource](https://www.w3resource.com/python-exercises/)
   
 + **SQL**:
