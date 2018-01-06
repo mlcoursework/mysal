@@ -19,6 +19,7 @@ My Somewhat Awesome List
 
 #### Pandas
 + Optimizing Pandas Code for Speed and Efficiency - Sofia Heisler. [Video](https://www.youtube.com/watch?v=HN5d490_KKk), [Repo](https://github.com/sversh/pycon2017-optimizing-pandas), [Slides](https://github.com/sversh/pycon2017-optimizing-pandas/blob/master/PyCon%20presentation.pdf)
++ [StackedOverflow - frequent questions in Pandas (interesting threads)](https://stackoverflow.com/questions/tagged/pandas?sort=frequent&pageSize=15)
 
 
 #### JoyPlots w/ Python
