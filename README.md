@@ -96,7 +96,7 @@ My Somewhat Awesome List
 
 
 #### Probability & Statistics
-+ [statistics how to (eye level explanations](http://www.statisticshowto.com/)
++ [statistics how to (eye level explanations)](http://www.statisticshowto.com/)
 
 
 #### Misc
