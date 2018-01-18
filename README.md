@@ -70,6 +70,7 @@ My Somewhat Awesome List
   + [checkio - games like](https://py.checkio.org)
   + \>\> [LeetCode](https://leetcode.com/problemset/algorithms/)
   + \>\> [w3resource](https://www.w3resource.com/python-exercises/)
+  + [Coding Interview Problems (github repo)](https://github.com/mre/the-coding-interview/tree/master/problems)
   
 + **SQL**:
   + [HackerRank](https://www.hackerrank.com/domains/sql/select)
