@@ -8,7 +8,7 @@ My Somewhat Awesome List
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
-+ [Python](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
++ [Python](https://github.com/mlcoursework/mysal/blob/master/README.md#python)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
 + [Practice Questions](https://github.com/mlcoursework/mysal/blob/master/README.md#practice-questions)
 + [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
