@@ -8,6 +8,7 @@ My Somewhat Awesome List
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
++ [Python](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
 + [Practice Questions](https://github.com/mlcoursework/mysal/blob/master/README.md#practice-questions)
 + [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
@@ -43,6 +44,11 @@ My Somewhat Awesome List
 + [SQL Window Functions Tutorial for Business Analysis](https://blog.statsbot.co/sql-window-functions-tutorial-b5075b87d129)
 + [Set Yourself Apart from you Peers — Learn CTE’s](https://www.essentialsql.com/introduction-common-table-expressions-ctes/)
 + [ElephantSQL - PostgreSQL hosting, including free plan for testing](https://www.elephantsql.com/)
+
+
+#### Python
++ [Time Complexity of Operations on Different Data Structures](https://wiki.python.org/moin/TimeComplexity)
+
 
 #### Deep Learning
 + [Guide - Deep Learning With Jupyter Notebooks In The Cloud](https://www.datacamp.com/community/tutorials/deep-learning-jupyter-aws)
@@ -96,7 +102,7 @@ My Somewhat Awesome List
 + Courses:
  + [Udacity - A/B Testing by Google](https://classroom.udacity.com/courses/ud257/)
  + [Udacity - A/B Testing for Business Analysts](https://classroom.udacity.com/courses/ud979)
- + 
+
 
 
 #### Probability & Statistics
