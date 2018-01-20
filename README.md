@@ -7,6 +7,7 @@ My Somewhat Awesome List
 + [JoyPlots w/ Python](https://github.com/mlcoursework/mysal/blob/master/README.md#joyplots-w-python)
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
++ [Data Visualization](https://github.com/mlcoursework/mysal/blob/master/README.md#data-visualization)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Python](https://github.com/mlcoursework/mysal/blob/master/README.md#python)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
@@ -37,6 +38,10 @@ My Somewhat Awesome List
 #### EDA
 + [Facets: An Open Source Visualization Tool for Machine Learning Training Data (from Google)](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
 + [glueviz](http://glueviz.org/)
+
+
+#### Data Visualization
++ [SankeyMATIC - Sankey diagram builder](http://sankeymatic.com/)
 
 
 #### SQL
