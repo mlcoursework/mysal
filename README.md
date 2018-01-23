@@ -106,8 +106,8 @@ My Somewhat Awesome List
 + [Video: Jason Cohen - a smart bear - mistakes to avoid with A/B testing, good watch](https://vimeo.com/54004040)
 + [12 A/B Split Testing Mistakes I See Businesses Make All The Time](https://conversionxl.com/blog/12-ab-split-testing-mistakes-i-see-businesses-make-all-the-time/)
 + Courses:
- + [Udacity - A/B Testing by Google](https://classroom.udacity.com/courses/ud257/)
- + [Udacity - A/B Testing for Business Analysts](https://classroom.udacity.com/courses/ud979)
+  + [Udacity - A/B Testing by Google](https://classroom.udacity.com/courses/ud257/)
+  + [Udacity - A/B Testing for Business Analysts](https://classroom.udacity.com/courses/ud979)
 
 
 
