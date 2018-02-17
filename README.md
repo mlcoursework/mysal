@@ -114,6 +114,9 @@ My Somewhat Awesome List
 
 #### Probability & Statistics
 + [statistics how to (eye level explanations)](http://www.statisticshowto.com/)
++ Introductory statistical inference videos:
+  + [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+  + [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 
 #### Misc
