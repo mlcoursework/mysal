@@ -51,8 +51,8 @@ My Somewhat Awesome List
 + [Set Yourself Apart from you Peers — Learn CTE’s](https://www.essentialsql.com/introduction-common-table-expressions-ctes/)
 + [ElephantSQL - PostgreSQL hosting, including free plan for testing](https://www.elephantsql.com/)
 + Sample SQL sandbox(es) to practice online - in browser:
- + [w3schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)
- + [dofactory](http://www.dofactory.com/sql/sandbox)
+  + [w3schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)
+  + [dofactory](http://www.dofactory.com/sql/sandbox)
 
 
 #### Python
