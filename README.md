@@ -50,6 +50,9 @@ My Somewhat Awesome List
 + [SQL Window Functions Tutorial for Business Analysis](https://blog.statsbot.co/sql-window-functions-tutorial-b5075b87d129)
 + [Set Yourself Apart from you Peers — Learn CTE’s](https://www.essentialsql.com/introduction-common-table-expressions-ctes/)
 + [ElephantSQL - PostgreSQL hosting, including free plan for testing](https://www.elephantsql.com/)
++ Sample SQL sandbox(es) to practice online - in browser:
+ + [w3schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)
+ + [dofactory](http://www.dofactory.com/sql/sandbox)
 
 
 #### Python
