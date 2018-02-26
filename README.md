@@ -109,6 +109,7 @@ My Somewhat Awesome List
 + Read: [A Smart Bear - Easy statistics for AdWords A/B testing, and hamsters](https://blog.asmartbear.com/easy-statistics-for-adwords-ab-testing-and-hamsters.html)
 + [Video: Jason Cohen - a smart bear - mistakes to avoid with A/B testing, good watch](https://vimeo.com/54004040)
 + [12 A/B Split Testing Mistakes I See Businesses Make All The Time](https://conversionxl.com/blog/12-ab-split-testing-mistakes-i-see-businesses-make-all-the-time/)
++ [Interesting and Important - Simpson's Paradox in A/B testing](https://youtu.be/GSPTcqNpab8)
 + Courses:
   + [Udacity - A/B Testing by Google](https://classroom.udacity.com/courses/ud257/)
   + [Udacity - A/B Testing for Business Analysts](https://classroom.udacity.com/courses/ud979)
