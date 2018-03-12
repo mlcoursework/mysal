@@ -60,8 +60,8 @@ My Somewhat Awesome List
 #### Python
 + [Time Complexity of Operations on Different Data Structures](https://wiki.python.org/moin/TimeComplexity)
 + Quick reference/cheat sheets:
- + [Kevin Markhan - Data School](http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
- + [wilfredinni - python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet#python-cheatsheet)
+  + [Kevin Markhan - Data School](http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
+  + [wilfredinni - python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet#python-cheatsheet)
 
 
 #### Deep Learning
