@@ -105,6 +105,10 @@ My Somewhat Awesome List
     > apt-get install sysbench <br>
     > sysbench --test=cpu --cpu-max-prime=20000 run
 + VNC - direct and clout connection set up - [link](https://www.raspberrypi.org/documentation/remote-access/vnc/). Download [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) from realvnc. Helpful YouTube [vid](https://youtu.be/kPeb5IvZW_k?t=7m32s).
++ PiCamera:
+ + [Getting started with picamera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
+ + [Documentation](https://picamera.readthedocs.io/en/release-1.13/index.html)
+ + [Very basic video but gets you started](https://www.youtube.com/watch?v=jMlMVzTxpDY)
 
 
 #### A/B Testing
