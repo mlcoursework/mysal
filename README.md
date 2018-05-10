@@ -109,6 +109,7 @@ My Somewhat Awesome List
   + [Getting started with picamera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
   + [Documentation](https://picamera.readthedocs.io/en/release-1.13/index.html)
   + [Very basic video but gets you started](https://www.youtube.com/watch?v=jMlMVzTxpDY)
++ Playing video on Rpi: in terminal, navigate to the directory and `omxplayer filename.mp4`, or `.h264` etc.
 
 
 #### A/B Testing
