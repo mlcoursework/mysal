@@ -62,6 +62,7 @@ My Somewhat Awesome List
 + Quick reference/cheat sheets:
   + [Kevin Markhan - Data School](http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
   + [wilfredinni - python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet#python-cheatsheet)
++ [Datetime strftime strptime formatting](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)
 
 
 #### Deep Learning
