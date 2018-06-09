@@ -4,6 +4,7 @@ My Somewhat Awesome List
 
 ### TOC
 + [Pandas](https://github.com/mlcoursework/mysal/blob/master/README.md#pandas)
++ [Knowledge & Learning Resources](https://github.com/mlcoursework/mysal/blob/master/README.md#knowledge--learning-resources)
 + [JoyPlots w/ Python](https://github.com/mlcoursework/mysal/blob/master/README.md#joyplots-w-python)
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
