@@ -26,6 +26,12 @@ My Somewhat Awesome List
 + [Styling DataFrames like Excel Cells. Because, reasons](https://pandas.pydata.org/pandas-docs/stable/style.html)
 
 
+#### Knowledge & Learning Resources
+
++ [Statsbot Blog](https://statsbot.co/blog/)
+
+
+
 #### JoyPlots w/ Python
 + [**JoyPy** - Best one yet](https://github.com/sbebo/joypy)
 + [Another option](https://github.com/daguiam/pyjoyplot)
