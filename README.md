@@ -32,6 +32,7 @@ My Somewhat Awesome List
 #### Knowledge & Learning Resources
 
 + [Statsbot Blog](https://statsbot.co/blog/)
++ [Dataquest Blog](https://www.dataquest.io/blog/)
 
 
 
