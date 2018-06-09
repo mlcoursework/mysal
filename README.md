@@ -8,6 +8,7 @@ My Somewhat Awesome List
 + [Networks](https://github.com/mlcoursework/mysal/blob/master/README.md#netowrks)
 + [EDA](https://github.com/mlcoursework/mysal/blob/master/README.md#eda)
 + [Data Visualization](https://github.com/mlcoursework/mysal/blob/master/README.md#data-visualization)
++ [Data Exploration, Visualization and Dashboarding](https://github.com/mlcoursework/mysal/blob/master/README.md#data-exploration-visualization-and-dashboarding)
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Python](https://github.com/mlcoursework/mysal/blob/master/README.md#python)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
