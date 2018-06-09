@@ -48,7 +48,11 @@ My Somewhat Awesome List
 
 #### Data Exploration, Visualization and Dashboarding
 + [Dash](https://dash.plot.ly/) by plot.ly. Also see [github](https://github.com/plotly/dash). "Dash is a Python framework for building analytical web applications.". 
-+ 
++ [BeakerX](http://beakerx.com), try for notebook like experience for SQL.
++ [franchise](https://franchise.cloud) - an open-source notebook for sql. SQLite, MySQL, PostgreSQL, BigQuery. [Github](https://github.com/hvf/franchise).
++ [Superset](https://superset.apache.org) (airbnb). [Github](https://github.com/apache/incubator-superset).
++ [dbtools](https://github.com/jhamrick/dbtools) simple python interface to SQLite databases.
+
 
 #### SQL
 + [Thread](https://news.ycombinator.com/item?id=14300038) on hackernews with links in comments to visual/browser platforms to run SQL queries and explore data.
