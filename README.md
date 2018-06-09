@@ -124,6 +124,9 @@ My Somewhat Awesome List
   + [Documentation](https://picamera.readthedocs.io/en/release-1.13/index.html)
   + [Very basic video but gets you started](https://www.youtube.com/watch?v=jMlMVzTxpDY)
 + Playing video on Rpi: in terminal, navigate to the directory and `omxplayer filename.mp4`, or `.h264` etc.
++ [Thingspeak](https://thingspeak.com) - send sensor data to the cloud, analyze, visualize.
++ Cool projects:
+  + [Project Floofball](https://www.raspberrypi.org/blog/project-floofball-pi-pet-stuff/)
 
 
 #### A/B Testing
