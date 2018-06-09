@@ -51,7 +51,7 @@ My Somewhat Awesome List
 + [BeakerX](http://beakerx.com), try for notebook like experience for SQL.
 + [franchise](https://franchise.cloud) - an open-source notebook for sql. SQLite, MySQL, PostgreSQL, BigQuery. [Github](https://github.com/hvf/franchise).
 + [Superset](https://superset.apache.org) (airbnb). [Github](https://github.com/apache/incubator-superset).
-+ [dbtools](https://github.com/jhamrick/dbtools) simple python interface to SQLite databases.
++ [dbtools](https://github.com/jhamrick/dbtools) - simple python interface to SQLite databases.
 
 
 #### SQL
