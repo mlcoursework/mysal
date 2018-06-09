@@ -17,6 +17,7 @@ My Somewhat Awesome List
 + [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
 + [Probability & Statistics](https://github.com/mlcoursework/mysal/blob/master/README.md#probability--statistics)
 + [Raspberry Pi](https://github.com/mlcoursework/mysal/blob/master/README.md#raspberry-pi)
++ [Tools](https://github.com/mlcoursework/mysal#tools)
 + [Cool Projects](https://github.com/mlcoursework/mysal#cool-projects)
 + [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
 
@@ -156,6 +157,11 @@ My Somewhat Awesome List
 + Introductory statistical inference videos:
   + [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
   + [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+
+
+
+#### Tools
++ [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 
 #### Cool projects
