@@ -33,6 +33,7 @@ My Somewhat Awesome List
 
 + [Statsbot Blog](https://statsbot.co/blog/)
 + [Dataquest Blog](https://www.dataquest.io/blog/)
++ [ML Topics Notebooks](https://www.ritchieng.com/machine-learning/)
 
 
 
