@@ -157,6 +157,11 @@ My Somewhat Awesome List
   + [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 
+#### Cool projects
++ [Simulating the Birthday Paradox](https://www.reddit.com/r/dataisbeautiful/comments/8pce4t/simulating_the_birthday_paradox_in_a_group_of_23/?st=ji7n7dwi&sh=a5274417). [Code](https://pastebin.com/D2xDZxD4).
+
+
+
 #### Misc
 + [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [Getting the gist of markdown's formatting syntax](https://daringfireball.net/projects/markdown/basics).
 + [How to import a python file from within another python file](https://stackoverflow.com/a/20749411/5056689)
