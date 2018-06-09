@@ -45,6 +45,10 @@ My Somewhat Awesome List
 + [SankeyMATIC - Sankey diagram builder](http://sankeymatic.com/)
 
 
+#### Data Exploration, Visualization and Dashboarding
++ [Dash](https://dash.plot.ly/) by plot.ly. Also see [github](https://github.com/plotly/dash). "Dash is a Python framework for building analytical web applications.". 
++ 
+
 #### SQL
 + [Thread](https://news.ycombinator.com/item?id=14300038) on hackernews with links in comments to visual/browser platforms to run SQL queries and explore data.
 + --> [Mode's SQL tutorials](https://community.modeanalytics.com/sql/)
