@@ -129,7 +129,6 @@ My Somewhat Awesome List
     > apt-get install sysbench <br>
     > sysbench --test=cpu --cpu-max-prime=20000 run
 + VNC - direct and clout connection set up - [link](https://www.raspberrypi.org/documentation/remote-access/vnc/). Download [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) from realvnc. Helpful YouTube [vid](https://youtu.be/kPeb5IvZW_k?t=7m32s).
-+ [Gpiozero documentation - input devices](https://gpiozero.readthedocs.io/en/stable/api_input.html?highlight=motionsensor#)
 + PiCamera:
   + [Getting started with picamera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
   + [Documentation](https://picamera.readthedocs.io/en/release-1.13/index.html)
@@ -138,6 +137,12 @@ My Somewhat Awesome List
 + [Thingspeak](https://thingspeak.com) - send sensor data to the cloud, analyze, visualize.
 + Cool projects:
   + [Project Floofball](https://www.raspberrypi.org/blog/project-floofball-pi-pet-stuff/)
++ Physical computing:
+  + Start here: [Physical Computing with Python](https://projects.raspberrypi.org/en/projects/physical-computing)
+  + [Gpiozero documentation - input devices](https://gpiozero.readthedocs.io/en/stable/api_input.html?highlight=motionsensor#)
+  + [Teaching Physical Computing with Raspberry Pi and Python](https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python)
+
+
 
 
 #### A/B Testing
