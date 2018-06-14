@@ -135,12 +135,14 @@ My Somewhat Awesome List
   + [Very basic video but gets you started](https://www.youtube.com/watch?v=jMlMVzTxpDY)
 + Playing video on Rpi: in terminal, navigate to the directory and `omxplayer filename.mp4`, or `.h264` etc.
 + [Thingspeak](https://thingspeak.com) - send sensor data to the cloud, analyze, visualize.
-+ Cool projects:
-  + [Project Floofball](https://www.raspberrypi.org/blog/project-floofball-pi-pet-stuff/)
++ [Turn monitor on and off with PIR sensor](https://github.com/cowboysdude/Pir-Sensor)
 + Physical computing:
   + Start here: [Physical Computing with Python](https://projects.raspberrypi.org/en/projects/physical-computing)
   + [Gpiozero documentation - input devices](https://gpiozero.readthedocs.io/en/stable/api_input.html?highlight=motionsensor#)
   + [Teaching Physical Computing with Raspberry Pi and Python](https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python)
++ Cool projects:
+  + [Project Floofball](https://www.raspberrypi.org/blog/project-floofball-pi-pet-stuff/)
+
 
 
 
