@@ -75,6 +75,10 @@ My Somewhat Awesome List
 + Sample SQL sandbox(es) to practice online - in browser:
   + [w3schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)
   + [dofactory](http://www.dofactory.com/sql/sandbox)
++ How to query a CSV like SQL:
+  + From the CLI with the [`querycsv`](https://pythonhosted.org/querycsv/) python library. Tried and worked! (`pip install querycsv`)
+  + [Thread](https://superuser.com/questions/7169/querying-a-csv-file) all sorts of other ways.
+  + [Online tool](http://www.convertcsv.com/query-csv.htm).
 
 
 #### Python
