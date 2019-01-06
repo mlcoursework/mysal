@@ -18,6 +18,7 @@ My Somewhat Awesome List
 + [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
 + [Probability & Statistics](https://github.com/mlcoursework/mysal/blob/master/README.md#probability--statistics)
 + [Raspberry Pi](https://github.com/mlcoursework/mysal/blob/master/README.md#raspberry-pi)
++ [Git and Github](https://github.com/mlcoursework/mysal/blob/master/README.md#git-and-github)
 + [Tools](https://github.com/mlcoursework/mysal#tools)
 + [Cool Projects](https://github.com/mlcoursework/mysal#cool-projects)
 + [Misc](https://github.com/mlcoursework/mysal/blob/master/README.md#misc)
