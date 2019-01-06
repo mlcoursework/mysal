@@ -13,6 +13,7 @@ My Somewhat Awesome List
 + [SQL](https://github.com/mlcoursework/mysal/blob/master/README.md#sql)
 + [Python](https://github.com/mlcoursework/mysal/blob/master/README.md#python)
 + [Deep Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#deep-learning)
++ [Machine Learning](https://github.com/mlcoursework/mysal/blob/master/README.md#machine-learning)
 + [Practice Questions](https://github.com/mlcoursework/mysal/blob/master/README.md#practice-questions)
 + [A/B testing](https://github.com/mlcoursework/mysal/blob/master/README.md#ab-testing)
 + [Probability & Statistics](https://github.com/mlcoursework/mysal/blob/master/README.md#probability--statistics)
@@ -87,6 +88,11 @@ My Somewhat Awesome List
   + **!** [Kevin Markhan - Data School](http://nbviewer.jupyter.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
   + [wilfredinni - python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet#python-cheatsheet)
 + [Datetime strftime strptime formatting](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior)
++ [2–6x speed-up on your pre-processing with 3 lines of code](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5) (uses `concurrent.futures`)
+
+#### Machine Learning
++ [Determining the number of clusters in a data set - wikipedia](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
++ 
 
 
 #### Deep Learning
@@ -172,6 +178,8 @@ My Somewhat Awesome List
   + [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 
+#### Git and Github
+[Alex Chan - A Plumber’s Guide to Git](https://alexwlchan.net/a-plumbers-guide-to-git/)
 
 #### Tools
 + [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
