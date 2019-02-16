@@ -93,7 +93,7 @@ My Somewhat Awesome List
 
 #### Machine Learning
 + [Determining the number of clusters in a data set - wikipedia](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
-+ 
++ [UC Berkeley CS188 Intro to AI -- Course Materials](http://ai.berkeley.edu/lecture_slides.html)
 
 
 #### Deep Learning
