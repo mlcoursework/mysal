@@ -177,6 +177,7 @@ My Somewhat Awesome List
 + Introductory statistical inference videos:
   + [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
   + [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
++ [Distribution zoo - visualise different distributions + code](https://ben18785.shinyapps.io/distribution-zoo/)
 
 
 #### Git and Github
