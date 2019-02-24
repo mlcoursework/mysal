@@ -178,6 +178,9 @@ My Somewhat Awesome List
   + [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
   + [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 + [Distribution zoo - visualise different distributions + code](https://ben18785.shinyapps.io/distribution-zoo/)
++ Casual Inference:
+  + [Intro post](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/?fbclid=IwAR2vV2jGvwLPzRJV-KwtieAYyUjTul4vCealJ_NNYU7qIH5N-Pbx3qXIBgw)
+  + [Book: CAUSAL INFERENCE IN STATISTICS: A PRIMER (available online)](http://bayes.cs.ucla.edu/PRIMER/)
 
 
 #### Git and Github
