@@ -177,6 +177,10 @@ My Somewhat Awesome List
 + Introductory statistical inference videos:
   + [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
   + [Khan Academy](https://www.khanacademy.org/math/statistics-probability)
++ [Nice blog about inferential statistics](https://pythonfordatascience.org/anova-2-way-n-way/)
++ ANOVA:
+  + [Three ways to do a two-way ANOVA with Python](https://www.marsja.se/three-ways-to-carry-out-2-way-anova-with-python/)
+  + [Introduction to two-way ANOVA and expansion to an N-way ANOVA](https://pythonfordatascience.org/anova-2-way-n-way/)
 + [Distribution zoo - visualise different distributions + code](https://ben18785.shinyapps.io/distribution-zoo/)
 + Casual Inference:
   + [Intro post](https://iyarlin.github.io/2019/02/08/correlation-is-not-causation-so-what-is/?fbclid=IwAR2vV2jGvwLPzRJV-KwtieAYyUjTul4vCealJ_NNYU7qIH5N-Pbx3qXIBgw)
